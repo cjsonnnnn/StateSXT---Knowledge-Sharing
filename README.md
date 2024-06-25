@@ -1,1 +1,1 @@
-# StateSXT - Knowledge-Sharing
+# StateSXT - Knowledge Sharing
